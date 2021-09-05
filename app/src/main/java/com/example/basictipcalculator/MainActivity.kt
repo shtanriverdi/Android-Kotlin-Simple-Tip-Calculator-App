@@ -66,7 +66,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun clearInput() {
         // Clear the Cost Of Service
-        binding.costOfService.text.clear()
+        binding.costOfServiceEditText.text?.clear()
         // Clear the input
         binding.tipResult.text = ""
     }
@@ -86,7 +86,7 @@ class MainActivity : AppCompatActivity() {
         * (an EditText object), and get the text property from it.
         * This is known as chaining, and is a very common pattern in Kotlin.
         * */
-        val stringInTextField = binding.costOfService.text.toString()
+        val stringInTextField = binding.costOfServiceEditText.text.toString()
 
         if (stringInTextField.isEmpty()) {
             Snackbar.make(
