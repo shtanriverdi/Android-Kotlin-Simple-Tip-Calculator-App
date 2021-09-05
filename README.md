@@ -4,5 +4,4 @@
 
 A tip calculator app by building the layout first and then implementing the logic to calculate the tip from the user input. 
 
-![2021-09-05 13_51_36-Editing Android-Kotlin-Simple-Tip-Calculator-App_README md at main · shtanriverd](https://user-images.githubusercontent.com/36234545/132124164-ec576625-2911-49ac-8833-59f6d94025ea.png)
-![2021-09-05 13_51_55-Editing Android-Kotlin-Simple-Tip-Calculator-App_README md at main · shtanriverd](https://user-images.githubusercontent.com/36234545/132124165-3226d3df-9e4d-4c01-b3ef-62fe7da9e00a.png)
+![2021-09-05 15_21_33-shtanriverdi_Android-Kotlin-Simple-Tip-Calculator-App_ A tip calculator app by b](https://user-images.githubusercontent.com/36234545/132126632-9df16b21-4634-4f73-8124-ede13c951a9f.png)
